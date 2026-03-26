@@ -1,0 +1,16 @@
+name = "QuantumML"
+uuid = "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx" # Replace with a generated UUID
+authors = ["Dr. Ethan Vance <ethan.vance.ai@example.com>"]
+version = "0.1.0"
+
+[deps]
+Yao = "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx" # Replace with Yao.jl UUID
+
+[compat]
+julia = "1.6"
+
+[extras]
+Test = "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx" # Replace with Test.jl UUID
+
+[targets]
+test = "Test"
